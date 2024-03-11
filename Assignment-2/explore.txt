@@ -1,0 +1,332 @@
+Html
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./frame.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Risque:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto Condensed:wght@300;500;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="frame">
+      <img class="frame-child" alt="" />
+
+      <div class="frame-item"></div>
+      <div class="our-mourenu">Our MOurenu</div>
+      <div class="our-menu">Our Menu</div>
+      <div class="frame-inner"></div>
+      <div class="frame-child1"></div>
+      <div class="div8">🎂</div>
+      <div class="frame-child2"></div>
+      <img class="frame-child3" alt="" />
+
+      <div class="frame-child4"></div>
+      <div class="frame-child5"></div>
+      <div class="frame-child6"></div>
+      <img class="image-1-icon2" alt="" src="./public/image-1@2x.png" />
+
+      <img class="image-2-icon2" alt="" src="./public/image-2@2x.png" />
+
+      <img class="image-3-icon2" alt="" src="./public/image-3@2x.png" />
+
+      <div class="nearby-store">Nearby Store</div>
+      <div class="birthday-party">Birthday Party</div>
+      <div class="catering">Catering</div>
+      <div class="discover-food">DISCOVER FOOD</div>
+      <div class="find-nearby-store">FIND NEARBY STORE</div>
+      <div class="book-now">BOOK NOW</div>
+      <div class="book-now1">BOOK NOW</div>
+      <div class="explore">EXPLORE</div>
+      <div class="frame-child7"></div>
+      <b class="my-foods-app">My food’s app online ordering</b>
+      <div class="yummy-food-delivered">Yummy food delivered fast & fresh</div>
+      <div class="frame-child8"></div>
+      <b class="order-online-now">ORDER ONLINE NOW</b>
+      <img
+        class="food-dish-svgrepo-com-1-icon1"
+        alt=""
+        src="./public/fooddishsvgrepocom-1.svg"
+      />
+
+      <div class="frame-child9"></div>
+      <div class="show-more1">Show more</div>
+      <img class="frame-child10" alt="" />
+
+      <img class="frame-child11" alt="" />
+    </div>
+  </body>
+</html>
+
+
+
+
+Css
+
+.frame-child {
+  position: absolute;
+  top: 289px;
+  left: 0;
+  width: 1439.9px;
+  height: 2px;
+  object-fit: contain;
+}
+.frame-item {
+  position: absolute;
+  top: 420px;
+  left: 32px;
+  background-color: var(--color-whitesmoke);
+  width: 307px;
+  height: 299px;
+}
+.our-mourenu {
+  color: transparent;
+  opacity: 0.3;
+}
+.our-menu,
+.our-mourenu {
+  position: absolute;
+  top: 569px;
+  left: 119px;
+  font-weight: 600;
+}
+.frame-child1,
+.frame-inner {
+  position: absolute;
+  top: 419px;
+  left: 384px;
+  background-color: var(--color-whitesmoke);
+  width: 312px;
+  height: 300px;
+}
+.frame-child1 {
+  left: 741px;
+}
+.div8 {
+  position: absolute;
+  top: 472px;
+  left: 864px;
+  font-size: var(--font-size-61xl);
+  font-family: var(--font-inter);
+}
+.frame-child2 {
+  position: absolute;
+  top: 419px;
+  left: 1098px;
+  background-color: var(--color-whitesmoke);
+  width: 312px;
+  height: 300px;
+}
+.frame-child3 {
+  position: absolute;
+  top: 657px;
+  left: 32px;
+  width: 307px;
+  height: 2px;
+  object-fit: contain;
+}
+.frame-child4,
+.frame-child5,
+.frame-child6 {
+  position: absolute;
+  top: 657.5px;
+  left: 382.5px;
+  border-top: 3px solid var(--color-black);
+  box-sizing: border-box;
+  width: 315px;
+  height: 3px;
+}
+.frame-child5,
+.frame-child6 {
+  left: 738.5px;
+  width: 316px;
+}
+.frame-child6 {
+  left: 1096.5px;
+  width: 315px;
+}
+.image-1-icon2,
+.image-2-icon2,
+.image-3-icon2 {
+  position: absolute;
+  top: 461px;
+  left: 158px;
+  width: 54px;
+  height: 85px;
+  object-fit: cover;
+}
+.image-2-icon2,
+.image-3-icon2 {
+  top: 463px;
+  left: 507px;
+  width: 67px;
+  height: 83px;
+}
+.image-3-icon2 {
+  top: 476px;
+  left: 1216px;
+  width: 76px;
+  height: 76px;
+}
+.birthday-party,
+.catering,
+.discover-food,
+.nearby-store {
+  position: absolute;
+  top: 576px;
+  left: 452px;
+  font-weight: 600;
+}
+.birthday-party,
+.catering,
+.discover-food {
+  left: 800px;
+}
+.catering,
+.discover-food {
+  left: 1196px;
+}
+.discover-food {
+  top: 677px;
+  left: 110px;
+  font-size: var(--font-size-xl);
+  color: #fc0000;
+}
+.book-now,
+.find-nearby-store {
+  top: 677px;
+  font-size: var(--font-size-xl);
+  color: var(--color-red-100);
+}
+.find-nearby-store {
+  position: absolute;
+  left: 444px;
+  font-weight: 600;
+}
+.book-now {
+  left: 845px;
+}
+.book-now,
+.book-now1,
+.explore {
+  position: absolute;
+  font-weight: 600;
+}
+.book-now1 {
+  top: 677px;
+  left: 1207px;
+  font-size: var(--font-size-xl);
+  color: var(--color-red-100);
+}
+.explore {
+  top: 332px;
+  left: 39px;
+  font-size: var(--font-size-21xl);
+}
+.frame-child7 {
+  position: absolute;
+  top: 348px;
+  left: 17px;
+  border-radius: 50%;
+  background-color: var(--color-black);
+  width: 15px;
+  height: 15px;
+}
+.my-foods-app,
+.yummy-food-delivered {
+  position: absolute;
+  left: 17px;
+  color: var(--color-white);
+}
+.my-foods-app {
+  top: 29px;
+  font-size: var(--font-size-21xl);
+}
+.yummy-food-delivered {
+  top: 76px;
+  font-weight: 300;
+  font-family: var(--font-roboto-condensed);
+}
+.frame-child8 {
+  position: absolute;
+  top: 152px;
+  left: 19px;
+  border-radius: var(--br-21xl);
+  background-color: #4d43c2;
+  width: 560px;
+  height: 84px;
+}
+.order-online-now {
+  position: absolute;
+  top: 177px;
+  left: 170px;
+  font-family: var(--font-roboto-condensed);
+  color: var(--color-white);
+}
+.food-dish-svgrepo-com-1-icon1 {
+  position: absolute;
+  top: -45px;
+  left: 944px;
+  width: 466px;
+  height: 377px;
+  overflow: hidden;
+}
+.frame-child9 {
+  position: absolute;
+  top: 785px;
+  left: 497px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-white);
+  width: 446px;
+  height: 74px;
+}
+.show-more1 {
+  position: absolute;
+  top: 805px;
+  left: 652px;
+  font-weight: 500;
+  font-family: var(--font-roboto-condensed);
+}
+.frame-child10,
+.frame-child11 {
+  position: absolute;
+  top: 822px;
+  left: 942px;
+  width: 498px;
+  height: 1px;
+  object-fit: contain;
+}
+.frame-child11 {
+  top: 821px;
+  left: 0;
+  width: 496px;
+  height: 2.1px;
+}
+.frame {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-tomato);
+  height: 1008px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

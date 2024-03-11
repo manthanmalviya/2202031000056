@@ -1,0 +1,310 @@
+HTML
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./desktop-1.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@600&display=swap"
+    />
+  </head>
+  <body>
+    <div class="desktop-11">
+      <div class="food-dish-svgrepo-com-1"></div>
+      <img class="group-icon" alt="" src="./public/group.svg" />
+
+      <img class="desktop-1-child1" alt="" />
+
+      <div class="ellipse-div"></div>
+      <img class="desktop-1-child2" alt="" />
+
+      <div class="search">Search</div>
+      <div class="div">%</div>
+      <div class="offers">Offers</div>
+      <div class="div1">?</div>
+      <div class="help">Help</div>
+      <div class="div2">[</div>
+      <div class="div3">&lt;</div>
+      <div class="div4">-</div>
+      <div class="signin1">SignIn</div>
+      <div class="rectangle-div"></div>
+      <div class="desktop-1-child3"></div>
+      <div class="cart">Cart</div>
+      <div class="desktop-1-child4"></div>
+      <div class="desktop-1-child5"></div>
+      <div class="desktop-1-child6"></div>
+
+      <div class="what-is-in">What is in your mind?</div>
+      <img class="image-1-icon" alt="" src="./public/image-1@2x.png" />
+
+      <img class="image-2-icon" alt="" src="./public/image-2@2x.png" />
+
+      <img class="image-3-icon" alt="" src="./public/image-3@2x.png" />
+
+      <img class="image-4-icon" alt="" src="./public/image-4@2x.png" />
+
+      <img class="image-5-icon" alt="" src="./public/image-5@2x.png" />
+
+      <div class="top-brands-for">Top brands for you</div>
+      <img class="image-6-icon" alt="" src="./public/image-6@2x.png" />
+
+      <img class="image-7-icon" alt="" src="./public/image-7@2x.png" />
+
+      <img class="image-8-icon" alt="" src="./public/image-8@2x.png" />
+
+      <img class="image-9-icon" alt="" src="./public/image-9@2x.png" />
+
+      <img class="image-10-icon" alt="" src="./public/image-10@2x.png" />
+    </div>
+  </body>
+</html>
+
+
+CSS
+
+.food-dish-svgrepo-com-1,
+.group-icon {
+  position: absolute;
+  top: 15px;
+  left: 16px;
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+}
+.group-icon {
+  height: 2.94%;
+  width: 3.47%;
+  top: 1.46%;
+  right: 95.42%;
+  bottom: 95.6%;
+  left: 1.11%;
+  max-width: 100%;
+  max-height: 100%;
+}
+.desktop-1-child1 {
+  position: absolute;
+  top: 65px;
+  left: 0;
+  width: 1431px;
+  height: 3px;
+  object-fit: contain;
+}
+.ellipse-div {
+  position: absolute;
+  top: 26px;
+  left: 638px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 17px;
+  height: 14px;
+}
+.desktop-1-child2 {
+  position: absolute;
+  top: 37px;
+  left: 650px;
+  width: 15px;
+  height: 8px;
+  object-fit: contain;
+}
+.div,
+.search {
+  position: absolute;
+  top: 27px;
+  left: 673px;
+  font-weight: 600;
+}
+.div {
+  top: 25px;
+  left: 752px;
+  font-size: var(--font-size-xl);
+}
+.offers {
+  top: 27px;
+  left: 775px;
+}
+.div1,
+.div2,
+.help,
+.offers {
+  position: absolute;
+  font-weight: 600;
+}
+.div1 {
+  top: 25px;
+  left: 850px;
+  font-size: var(--font-size-xl);
+}
+.div2,
+.help {
+  top: 27px;
+  left: 868px;
+}
+.div2 {
+  left: 932px;
+}
+.div3 {
+  top: 25px;
+  left: 937px;
+  font-size: var(--font-size-xl);
+}
+.div3,
+.div4,
+.signin1 {
+  position: absolute;
+  font-weight: 600;
+}
+.div4 {
+  top: 25px;
+  left: 943px;
+  font-size: var(--font-size-xl);
+}
+.signin1 {
+  top: 27px;
+  left: 957px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 28px;
+  left: 1032px;
+  background-color: var(--color-white);
+  width: 20px;
+  height: 20px;
+}
+.desktop-1-child3 {
+  position: absolute;
+  top: 33px;
+  left: 1037px;
+  border-radius: 50%;
+  background-color: #d9d9d9;
+  width: 11px;
+  height: 11px;
+}
+.cart {
+  position: absolute;
+  top: 30px;
+  left: 1061px;
+  font-weight: 600;
+  display: inline-block;
+  width: 29px;
+  height: 16px;
+}
+.desktop-1-child4,
+.desktop-1-child5,
+.desktop-1-child6 {
+  position: absolute;
+  top: 11px;
+  left: 1346px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-white);
+  width: 44px;
+  height: 9px;
+}
+.desktop-1-child5,
+.desktop-1-child6 {
+  top: 42px;
+}
+.desktop-1-child6 {
+  top: 27px;
+}
+.what-is-in {
+  position: absolute;
+  top: 97px;
+  left: 24px;
+  font-size: var(--font-size-29xl);
+  font-weight: 600;
+}
+.image-1-icon,
+.image-2-icon,
+.image-3-icon,
+.image-4-icon,
+.image-5-icon {
+  position: absolute;
+  top: 189px;
+  left: 32px;
+  border-radius: var(--br-125xl);
+  width: 245px;
+  height: 365px;
+  object-fit: cover;
+}
+.image-2-icon,
+.image-3-icon,
+.image-4-icon,
+.image-5-icon {
+  top: 193px;
+  left: 316px;
+}
+.image-3-icon,
+.image-4-icon,
+.image-5-icon {
+  top: 185px;
+  left: 600px;
+  width: 248px;
+  height: 373px;
+}
+.image-4-icon,
+.image-5-icon {
+  left: 887px;
+  width: 226px;
+  height: 359px;
+}
+.image-5-icon {
+  top: 184px;
+  left: 1152px;
+  width: 238px;
+  height: 360px;
+}
+.top-brands-for {
+  position: absolute;
+  top: 587px;
+  left: 24px;
+  font-size: var(--font-size-29xl);
+  font-weight: 600;
+}
+.image-10-icon,
+.image-6-icon,
+.image-7-icon,
+.image-8-icon,
+.image-9-icon {
+  position: absolute;
+  top: 672px;
+  left: 16px;
+  border-radius: var(--br-31xl);
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+}
+.image-10-icon,
+.image-7-icon,
+.image-8-icon,
+.image-9-icon {
+  left: 302px;
+}
+.image-10-icon,
+.image-8-icon,
+.image-9-icon {
+  left: 588px;
+}
+.image-10-icon,
+.image-9-icon {
+  left: 874px;
+}
+.image-10-icon {
+  left: 1160px;
+}
+.desktop-11 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-tomato);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
