@@ -1,0 +1,270 @@
+
+.about,
+.order-now,
+.our-policies,
+.visit-my-food {
+  position: absolute;
+  top: 53px;
+  left: 52px;
+  font-size: var(--font-size-21xl);
+}
+.about,
+.our-policies,
+.visit-my-food {
+  top: 63px;
+  left: 366px;
+}
+.our-policies,
+.visit-my-food {
+  top: 67px;
+  left: 622px;
+}
+.visit-my-food {
+  left: 988px;
+}
+.deals,
+.pizza {
+  position: absolute;
+  top: 123px;
+  left: 52px;
+  font-weight: 500;
+}
+.pizza {
+  top: 163px;
+}
+.about-us,
+.desserts,
+.drinks,
+.sides {
+  position: absolute;
+  top: 203px;
+  left: 51px;
+  font-weight: 500;
+}
+.about-us,
+.desserts,
+.drinks {
+  top: 241px;
+}
+.about-us,
+.desserts {
+  top: 279px;
+}
+.about-us {
+  top: 129px;
+  left: 366px;
+}
+.career,
+.contactless-delivery,
+.nutrition,
+.privacy {
+  position: absolute;
+  top: 169px;
+  left: 366px;
+  font-weight: 500;
+}
+.career,
+.nutrition,
+.privacy {
+  top: 203px;
+}
+.career,
+.privacy {
+  top: 235px;
+}
+.privacy {
+  top: 163px;
+  left: 618px;
+}
+.faqs-help,
+.responsible-disclosure,
+.terms-condition {
+  position: absolute;
+  top: 129px;
+  left: 618px;
+  font-weight: 500;
+}
+.faqs-help,
+.responsible-disclosure {
+  top: 203px;
+}
+.faqs-help {
+  top: 241px;
+}
+.globle-blog,
+.help-us-in,
+.locet-a-store {
+  position: absolute;
+  top: 123px;
+  left: 988px;
+  font-weight: 500;
+}
+.globle-blog,
+.help-us-in {
+  top: 169px;
+}
+.help-us-in {
+  top: 524px;
+  left: 23px;
+}
+.order-a-delicious {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.order-a-delicious-container {
+  position: absolute;
+  top: 694px;
+  left: 10px;
+  font-size: var(--font-size-mini);
+  font-weight: 500;
+  display: inline-block;
+  width: 1522px;
+  height: 72px;
+}
+.desktop-1-child30 {
+  position: absolute;
+  top: 374px;
+  left: 336px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-black);
+  border: 3px solid var(--color-white);
+  box-sizing: border-box;
+  width: 187px;
+  height: 51px;
+}
+.app-store,
+.downlod-on-the {
+  position: absolute;
+  top: 203px;
+  left: 111px;
+}
+.app-store {
+  top: 220px;
+  left: 125px;
+  font-size: var(--font-size-3xl);
+  font-weight: 800;
+}
+.apple-1-child {
+  position: absolute;
+  top: 195px;
+  left: 292px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-black);
+  border: 3px solid var(--color-white);
+  box-sizing: border-box;
+  width: 187px;
+  height: 51px;
+}
+.play-1-icon {
+  position: absolute;
+  top: 203px;
+  left: 306px;
+  width: 32px;
+  height: 32px;
+  overflow: hidden;
+}
+.get-it-on,
+.google-play {
+  position: absolute;
+  top: 198px;
+  left: 359px;
+  font-weight: 500;
+}
+.google-play {
+  top: 215px;
+  left: 341px;
+  font-size: var(--font-size-3xl);
+  font-weight: 800;
+}
+.apple-1-item {
+  position: absolute;
+  top: 335px;
+  left: 103px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  width: 282px;
+  height: 65px;
+}
+.give-feedback {
+  position: absolute;
+  top: 350px;
+  left: 147px;
+  font-size: var(--font-size-11xl);
+  color: var(--color-black);
+}
+.apple-1 {
+  position: absolute;
+  top: 175px;
+  left: 278px;
+  width: 800px;
+  height: 800px;
+  overflow: hidden;
+  font-size: var(--font-size-lg);
+}
+.follow-us {
+  position: absolute;
+  top: 489px;
+  left: 1190px;
+  font-size: var(--font-size-11xl);
+}
+.dribbble-light-preview-icon {
+  position: absolute;
+  height: 2.93%;
+  width: 2.01%;
+  top: 37.5%;
+  right: 73.54%;
+  bottom: 59.57%;
+  left: 24.44%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image-1-icon5,
+.image-2-icon5 {
+  position: absolute;
+  top: 548px;
+  left: 1146px;
+  width: 29px;
+  height: 28px;
+  object-fit: cover;
+}
+.image-2-icon5 {
+  top: 550px;
+  left: 1205px;
+  width: 33px;
+  height: 26px;
+}
+.image-3-icon4,
+.image-4-icon3,
+.image-5-icon3 {
+  position: absolute;
+  top: 545px;
+  left: 1268px;
+  width: 31px;
+  height: 30px;
+  object-fit: cover;
+}
+.image-4-icon3,
+.image-5-icon3 {
+  top: 548px;
+  left: 1329px;
+  width: 40px;
+  height: 29px;
+}
+.image-5-icon3 {
+  top: 835px;
+  left: 656px;
+  width: 150px;
+  height: 150px;
+}
+.desktop-15 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-black);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

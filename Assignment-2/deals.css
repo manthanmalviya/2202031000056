@@ -1,0 +1,71 @@
+
+.image-1-icon3 {
+  position: absolute;
+  top: 85px;
+  left: 21px;
+  border-radius: var(--br-11xl);
+  width: 600px;
+  height: 400px;
+  object-fit: cover;
+}
+.our-most-popular {
+  position: absolute;
+  top: 19px;
+  left: 46px;
+}
+.desktop-1-child23 {
+  position: absolute;
+  top: 36px;
+  left: 21px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 12px;
+  height: 12px;
+}
+.image-2-icon3,
+.image-4-icon2,
+.image-5-icon2 {
+  position: absolute;
+  top: 85px;
+  left: 769px;
+  border-radius: var(--br-11xl);
+  width: 600px;
+  height: 400px;
+  object-fit: cover;
+}
+.image-4-icon2,
+.image-5-icon2 {
+  top: 545px;
+  height: 365.2px;
+}
+.image-5-icon2 {
+  top: 560px;
+  left: 21px;
+  height: 336px;
+}
+.desktop-1-child24 {
+  position: absolute;
+  top: 933px;
+  left: 24px;
+  border-radius: 20px;
+  background-color: var(--color-slateblue);
+  width: 1345px;
+  height: 64px;
+}
+.view-all-deals {
+  position: absolute;
+  top: 947px;
+  left: 613px;
+  font-size: var(--font-size-11xl);
+}
+.desktop-13 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-tomato);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto-condensed);
+}

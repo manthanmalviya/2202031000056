@@ -1,0 +1,365 @@
+
+  position: absolute;
+  top: 80px;
+  left: 0;
+  border-top: 5px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1440px;
+  height: 0;
+}
+.group-icon1 {
+  position: absolute;
+  height: 4.49%;
+  width: 4.93%;
+  top: 1.46%;
+  right: 93.96%;
+  bottom: 94.04%;
+  left: 1.11%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.desktop-1-child8 {
+  position: absolute;
+  top: 13.5px;
+  left: 109.5px;
+  border-right: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 1px;
+  height: 48px;
+}
+.div5,
+.set-up-your {
+  position: absolute;
+  font-weight: 600;
+}
+.set-up-your {
+  top: 23px;
+  left: 133px;
+  font-size: var(--font-size-6xl);
+}
+.div5 {
+  top: 56px;
+  left: 368px;
+  color: rgba(255, 182, 193, 0.8);
+  display: inline-block;
+  width: 27px;
+  height: 42px;
+}
+.desktop-1-child9 {
+  position: absolute;
+  top: 12px;
+  left: 525px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-gainsboro);
+  width: 676px;
+  height: 47px;
+}
+.desktop-1-child10 {
+  position: absolute;
+  top: 35px;
+  left: 1159px;
+  width: 15px;
+  height: 8px;
+  object-fit: contain;
+}
+.desktop-1-child11 {
+  position: absolute;
+  top: 28px;
+  left: 1150px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 17px;
+  height: 14px;
+}
+.search-for-restaurent {
+  position: absolute;
+  top: 24px;
+  left: 537px;
+  font-size: var(--font-size-xl);
+  font-weight: 100;
+  color: var(--color-black);
+}
+.div6,
+.div7 {
+  position: absolute;
+  font-weight: 600;
+}
+.div6 {
+  top: 24px;
+  left: 1381px;
+  font-size: var(--font-size-11xl);
+}
+.div7 {
+  top: 21px;
+  left: 1362px;
+  font-size: 35px;
+}
+.desktop-1-child12 {
+  position: absolute;
+  top: 41.5px;
+  left: 1335.5px;
+  border-top: 3px solid var(--color-white);
+  box-sizing: border-box;
+  width: 38px;
+  height: 3px;
+}
+.restaurant-with-great {
+  position: absolute;
+  top: 99px;
+  left: 25px;
+  font-weight: 600;
+  display: inline-block;
+  width: 812px;
+}
+.desktop-1-child13,
+.desktop-1-child14 {
+  position: absolute;
+  top: 161px;
+  left: 17px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-white);
+  width: 103px;
+  height: 38px;
+}
+.desktop-1-child14 {
+  left: 954px;
+}
+.desktop-1-child15,
+.desktop-1-child16,
+.desktop-1-child17,
+.desktop-1-child18,
+.desktop-1-child19,
+.desktop-1-child20,
+.desktop-1-child21 {
+  position: absolute;
+  top: 161px;
+  left: 133px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-white);
+  width: 103px;
+  height: 38px;
+}
+.desktop-1-child16,
+.desktop-1-child17,
+.desktop-1-child18,
+.desktop-1-child19,
+.desktop-1-child20,
+.desktop-1-child21 {
+  left: 254px;
+}
+.desktop-1-child17,
+.desktop-1-child18,
+.desktop-1-child19,
+.desktop-1-child20,
+.desktop-1-child21 {
+  left: 370px;
+}
+.desktop-1-child18,
+.desktop-1-child19,
+.desktop-1-child20,
+.desktop-1-child21 {
+  left: 486px;
+}
+.desktop-1-child19,
+.desktop-1-child20,
+.desktop-1-child21 {
+  left: 602px;
+}
+.desktop-1-child20,
+.desktop-1-child21 {
+  left: 720px;
+}
+.desktop-1-child21 {
+  left: 836px;
+}
+.filter,
+.sort-by {
+  top: 169px;
+  font-size: var(--font-size-xl);
+}
+.filter {
+  position: absolute;
+  left: 44px;
+  font-weight: 100;
+  color: var(--color-black);
+}
+.sort-by {
+  left: 153px;
+}
+.fast-delivery,
+.new-on-top,
+.offers1,
+.rateing-40,
+.sort-by {
+  position: absolute;
+  font-weight: 100;
+  color: var(--color-black);
+}
+.offers1 {
+  top: 169px;
+  left: 277px;
+  font-size: var(--font-size-xl);
+}
+.fast-delivery,
+.new-on-top,
+.rateing-40 {
+  font-size: var(--font-size-mini);
+}
+.fast-delivery {
+  top: 169px;
+  left: 381px;
+  display: inline-block;
+  width: 130px;
+  height: 27px;
+}
+.new-on-top,
+.rateing-40 {
+  top: 173px;
+  left: 499px;
+}
+.rateing-40 {
+  top: 171px;
+  left: 612px;
+}
+.pure-veg {
+  top: 169px;
+  left: 732px;
+  font-size: var(--font-size-xl);
+}
+.less-then-rs300,
+.pure-veg,
+.rs300-rs600 {
+  position: absolute;
+  font-weight: 100;
+  color: var(--color-black);
+}
+.rs300-rs600 {
+  top: 171px;
+  left: 841px;
+  font-size: var(--font-size-mini);
+}
+.less-then-rs300 {
+  top: 175px;
+  left: 964px;
+  font-size: 12px;
+}
+.image-1-icon1,
+.image-2-icon1,
+.image-3-icon1,
+.image-4-icon1,
+.image-5-icon1,
+.image-6-icon1 {
+  position: absolute;
+  top: 237px;
+  left: 17px;
+  border-radius: var(--br-21xl);
+  width: 425px;
+  height: 309px;
+  object-fit: cover;
+}
+.image-2-icon1,
+.image-3-icon1,
+.image-4-icon1,
+.image-5-icon1,
+.image-6-icon1 {
+  left: 511px;
+  width: 426px;
+}
+.image-3-icon1,
+.image-4-icon1,
+.image-5-icon1,
+.image-6-icon1 {
+  top: 236px;
+  left: 1004px;
+  width: 425px;
+}
+.image-4-icon1,
+.image-5-icon1,
+.image-6-icon1 {
+  top: 612px;
+  left: 17px;
+  height: 308px;
+}
+.image-5-icon1,
+.image-6-icon1 {
+  left: 508px;
+  height: 310px;
+}
+.image-6-icon1 {
+  left: 999px;
+  height: 308px;
+}
+.item-at-129,
+.off-up-to {
+  position: absolute;
+  top: 546px;
+  left: 51px;
+  font-family: var(--font-risque);
+}
+.item-at-129 {
+  left: 537px;
+}
+.item-at-199,
+.off-up-to1,
+.off-up-to2,
+.off-up-to3 {
+  position: absolute;
+  top: 922px;
+  left: 1057px;
+  font-family: var(--font-risque);
+}
+.item-at-199,
+.off-up-to2,
+.off-up-to3 {
+  left: 542px;
+}
+.item-at-199,
+.off-up-to3 {
+  top: 920px;
+  left: 51px;
+}
+.off-up-to3 {
+  top: 546px;
+  left: 1036px;
+}
+.desktop-1-child22 {
+  position: absolute;
+  top: 970px;
+  left: 511px;
+  border-radius: 30px;
+  background-color: var(--color-tomato);
+  width: 418px;
+  height: 45px;
+  mix-blend-mode: linear-dodge;
+}
+.show-more {
+  position: absolute;
+  top: 978px;
+  left: 646px;
+  font-size: var(--font-size-6xl);
+}
+.desktop-12 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-tomato);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
+
+
+      <div class="off-up-to">50% off up to ₹100</div>
+      <div class="item-at-129">Item at ₹129</div>
+      <div class="off-up-to1">60% off up to ₹120</div>
+      <div class="off-up-to2">20% off up to ₹50</div>
+      <div class="item-at-199">Item at ₹199</div>
+      <div class="off-up-to3">50% off up to ₹100</div>
+      <div class="desktop-1-child22"></div>
+      <div class="show-more">Show more</div>
+    </div>
+  </body>
+</html>

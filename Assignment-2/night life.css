@@ -1,0 +1,156 @@
+
+
+.nightlife-restaurants-in {
+  position: absolute;
+  top: 8px;
+  left: 53px;
+  font-size: var(--font-size-21xl);
+  font-weight: 600;
+}
+.desktop-1-child25 {
+  position: absolute;
+  top: 26px;
+  left: 24px;
+  border-radius: 50%;
+  background-color: var(--color-white);
+  width: 10px;
+  height: 10px;
+}
+.image-1-icon4 {
+  position: absolute;
+  top: 84px;
+  left: 24px;
+  border-radius: var(--br-11xl);
+  width: 500px;
+  height: 332.6px;
+  object-fit: cover;
+}
+.poetic-night,
+.the-lounge,
+.the-surprise {
+  position: absolute;
+  top: 427px;
+  left: 34px;
+  font-size: var(--font-size-11xl);
+  font-weight: 600;
+  color: var(--color-black);
+}
+.poetic-night,
+.the-surprise {
+  top: 420px;
+  left: 578px;
+}
+.poetic-night {
+  top: 416px;
+  left: 1159px;
+}
+.north-indiansouth-indian {
+  position: absolute;
+  top: 462px;
+  left: 34px;
+}
+.candlelight-dinner-place,
+.live-show-and {
+  position: absolute;
+  top: 455px;
+  left: 578px;
+}
+.live-show-and {
+  top: 451px;
+  left: 1159px;
+  white-space: pre-wrap;
+}
+.image-2-icon4,
+.image-3-icon3 {
+  position: absolute;
+  top: 84px;
+  left: 563px;
+  border-radius: var(--br-11xl);
+  width: 500px;
+  height: 332px;
+  object-fit: cover;
+}
+.image-3-icon3 {
+  top: 55px;
+  left: 1143px;
+  width: 250px;
+  height: 353.2px;
+}
+.desktop-1-child26 {
+  position: absolute;
+  top: 536px;
+  left: 66px;
+  border-radius: var(--br-41xl);
+  background-color: var(--color-white);
+  width: 127px;
+  height: 46px;
+}
+.filters {
+  position: absolute;
+  top: 547px;
+  left: 102px;
+  font-weight: 200;
+  color: #8a8a8a;
+}
+.desktop-1-child27,
+.desktop-1-child28,
+.desktop-1-child29 {
+  position: absolute;
+  top: 536px;
+  left: 501px;
+  border-radius: var(--br-41xl);
+  background-color: var(--color-white);
+  width: 127px;
+  height: 46px;
+}
+.desktop-1-child28,
+.desktop-1-child29 {
+  left: 356px;
+}
+.desktop-1-child29 {
+  left: 211px;
+}
+.pubs-bars,
+.rating,
+.rating-40 {
+  position: absolute;
+  top: 547px;
+  left: 223px;
+  font-weight: 200;
+  color: #6e6e6e;
+}
+.pubs-bars,
+.rating {
+  left: 366px;
+  color: #646464;
+}
+.rating {
+  left: 511px;
+  color: #636363;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 947px;
+  left: 554px;
+  border-radius: 302px;
+  width: 333px;
+  height: 52px;
+}
+.show-more2 {
+  position: absolute;
+  top: 961px;
+  left: 669px;
+  color: var(--color-red-100);
+}
+.desktop-14 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-tomato);
+  box-shadow: 40px 20px 4px rgba(0, 0, 0, 0.25);
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
